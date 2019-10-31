@@ -12,11 +12,12 @@
         $base = 2;
         $altezza = -5;
 
-        //calcolo l'area
+         //calcolo l'area
         $area = calcola_area( $base, $altezza);
 
         //stampo area
         echo($area);
+        //test per controllo di versione
     ?>
 </body>
 </html>
